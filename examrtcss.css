@@ -1,0 +1,254 @@
+*body{ 
+    margin: 0px;
+    padding: 0px;
+}
+
+.container{
+    width: 1700px;
+    height: fixed;
+    background-color: white;
+    display: inline-block
+}
+.header .logo{
+    display: flex;
+    width: 280px;
+    padding-left: 70px;
+    padding-bottom: 50px;
+    padding-right: 70px;
+    padding-top: 40px;
+}
+.header{
+    height: 150px;
+    width: 1700px;
+    background-color: white ;
+    margin-bottom: 150px;
+    display: flex;
+}
+
+
+.header .listimg{
+    width: 25px;
+    height: 20px;
+    display: flex;
+    margin: 14px;
+}
+.header h3{
+    padding-left: 5px;
+    display: inline;
+    margin-top: 5px;
+}
+.headerul{
+    margin-top: -50px;
+    margin-left: -25px;
+    display: inline;
+    width: 500px;
+    padding-left: 0px;
+    border-bottom-left-radius: 5px;
+
+}
+.headerli{
+    display: flex;
+    float: left;
+    text-align: center;
+    margin-top: 50px;
+    padding-right: 8px;
+    border-bottom: 2px black solid;
+    border-left: black 1px solid;
+    border-right: black 1px solid;
+    font-size: 20px;
+}
+.storeselector img{
+    width: 30px;
+    height: 25px;
+    display: inline;
+    margin-right: -20px;
+    margin-top: -5px;
+    padding-right: 30px;
+    padding-bottom: -10px;
+    vertical-align: -5px;
+}   
+.storeselector{
+    display: inline;
+    margin-right: -100px;
+    width: 400px;
+    margin-top: 56px;
+    margin-left: -560px;
+}
+.storeul{
+    display: inline;
+    width: 400px;
+}
+.storeli{
+    display: inline;
+    text-decoration: none;
+    border-right: 2px solid;
+    flex: 0 1 auto; 
+    padding-left:15px ;
+    padding-right: 10px;
+}
+.storeselector h4{
+    display: inline;
+}
+.storeselector p{
+
+    vertical-align: -20px;
+    display: flex;
+    margin: 20px 0px 10px 100px;
+}
+.signin{
+    display: inline;
+    margin-left: 700px;
+}
+.signin img{
+    display: inline;
+    padding-right: 5px;
+}
+
+.signin ul{
+    display: flex;
+    width: 300px;
+    margin-right: 10px;
+    padding-right: 20px;
+}
+.signin p{
+    margin-left: 150px;
+}
+.signin li{
+    display: inline;
+    float: left; 
+    margin-right: 10px;
+    margin-top: -5px;
+    font-weight: bold;
+    font-size: 25px;
+}
+.signin input{
+    display: inline;
+    margin-top: -20px;
+    margin-left: 12px;
+    height: 30px;
+    width: 240px;
+}
+.sign{
+    border-right:2px solid ;
+    padding-right: 10px;
+    height: 32px;
+}
+.signin img{
+    width: 25px;
+}
+#navbar{
+    width: 1500px;
+    height: 50px;
+    background-color: #E4161F;
+    margin-top: -160px;
+    padding-right: 200px;
+}
+
+.list {
+    display: inline;
+    width: 200px
+}
+.list li{
+    display: inline;
+    text-decoration: none;
+    border-left: 2px solid;
+    font-size: 27px;
+    font-weight: bold;
+    color: white;
+    margin-right:  -10px;
+    margin-left: 100px;
+    padding-top: 0px;
+    padding-bottom: 20px;
+    padding-right:20px;
+    padding-left: 70px;
+
+}
+
+
+#middlefour ul{
+    display: inline;
+    
+}
+#middlefour li{
+    display: inline;
+    float: left;
+    background-color:white;
+    width: 280px;
+    height: 310px;
+    margin-bottom: 20px;
+    margin-left: 80px;
+    padding-left: 20px;
+    padding-top: 30px;
+    text-align: left;
+    border: 2px black solid;
+    font-size: 18px;
+}
+#middlefour img{
+    width: 80px;
+    height: 70px;
+    margin-left: 65px;
+    padding-top: 10px;
+    padding-left: 25px;
+    align-items: center;
+}
+#middlefour h1{
+    margin-left: 650px;
+    color:#655A50 ;
+    font-size: 30px;
+}
+#middlefour span{
+    color: red;
+    line-break: normal;
+}
+span#grey {
+    color:#655A50 ;
+    font-weight: bolder;
+    font-size: 20px;
+}
+
+.bannerimg{
+    width: 1110px;
+    height: 320px;
+    margin-left: 80px;
+    display: inline;
+}
+
+#ads{
+    margin-left: 1230px;
+    margin-top: -320px;
+    margin-bottom: 20px;
+    border: 2px solid black;
+    width: 300px;
+    height:290px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    
+}
+
+
+#ads p{
+    font-size: 35px;
+    margin-top: -110px ;
+    margin-bottom: 100px;
+    width: 230px;
+    display: inline;
+}
+#ads button{
+    width: 120px;
+    height: 30px;
+    font-size: 20px;
+    font-weight: bold;
+    color: white;
+    background-color: #E51825;
+    display: inline;
+    margin-bottom: 10px;
+    margin-left: 15px;
+    border-radius: 8px;
+
+}   
+
+#ads img{
+    width: 290px;
+    height: 120px;
+}
